@@ -20,6 +20,9 @@
   "prisma": {
     "seed": "yarn rw exec seed"
   },
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.6.0",
+  "resolutions": {
+    "@storybook/react-dom-shim": "8.0.8"
+  }
 
 }
